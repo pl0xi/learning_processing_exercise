@@ -1,0 +1,5 @@
+Each line
+from this file
+will be one element
+in an array
+of strings
