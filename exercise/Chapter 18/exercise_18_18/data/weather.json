@@ -1,0 +1,15 @@
+{
+    "weather": [{
+        "id": 801,
+        "main": "Clouds",
+        "description": "few clouds",
+        "icon": "02d"
+    }],
+    "main": {
+        "temp": 73.45,
+        "humidity": 83,
+        "pressure": 999,
+        "temp_min": 70,
+        "temp_max": 75.99
+    }
+}
