@@ -1,0 +1,22 @@
+{
+    "cities": [
+        {
+            "name":"New York",
+            "weather":{
+                "high":24,
+                "low": 2
+            },
+            "wind": 24,
+            "wind_direction": "SE"
+        },
+        {
+            "name":"Miami",
+            "weather":{
+                "high":24,
+                "low": 7
+            },
+            "wind": 3,
+            "wind_direction": "NN"
+        }
+    ]
+}
