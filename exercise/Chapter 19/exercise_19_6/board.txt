@@ -1,0 +1,4 @@
+Vælg spiller
+
+- Add disconnect status
+- Add reconnect feature
